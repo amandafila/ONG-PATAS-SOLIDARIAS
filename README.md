@@ -1,5 +1,6 @@
 # ONG Patas Solidárias
-
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)
+<br>
 Projeto desenvolvido como conclusão do segundo semestre do curso de Engenharia de Software. Este sistema é destinado a gerenciar as atividades da ONG Patas Solidárias, incluindo o cadastro e a exibição de animais disponíveis para adoção.
 
 ## Como Visualizar o Projeto
